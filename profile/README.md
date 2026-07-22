@@ -23,6 +23,58 @@ Nuestros proyectos pueden estar relacionados con:
 * Desarrollo económico y fortalecimiento institucional.
 * Transparencia, colaboración y acceso abierto a la tecnología.
 
+## Nuestros proyectos
+
+La **Fundación Un País Mejor** desarrolla, mantiene y respalda soluciones tecnológicas de código abierto orientadas a atender necesidades sociales, económicas, educativas, institucionales y de salud en la República Dominicana.
+
+Esta sección presenta un resumen de nuestras principales iniciativas. La documentación técnica, los requisitos de instalación, las instrucciones de uso y las formas de colaboración se encuentran en el repositorio correspondiente de cada proyecto.
+
+### Proyectos en desarrollo
+
+| Proyecto                | Descripción                                                                                   | Área                     | Estado        | Repositorio                            |
+| ----------------------- | --------------------------------------------------------------------------------------------- | ------------------------ | ------------- | -------------------------------------- |
+| **Nombre del proyecto** | Descripción breve del propósito del proyecto y del problema que busca resolver.               | Salud                    | En desarrollo | [Ver repositorio](URL_DEL_REPOSITORIO) |
+| **Nombre del proyecto** | Descripción breve del propósito del proyecto y de las personas o instituciones beneficiarias. | Educación                | Piloto        | [Ver repositorio](URL_DEL_REPOSITORIO) |
+| **Nombre del proyecto** | Descripción breve de la solución tecnológica desarrollada.                                    | Desarrollo institucional | Activo        | [Ver repositorio](URL_DEL_REPOSITORIO) |
+
+### Software libre localizado para República Dominicana
+
+También trabajamos en la localización y adaptación de plataformas de código abierto para facilitar su utilización en la República Dominicana.
+
+Estas iniciativas pueden incluir traducciones, documentación, configuraciones, módulos y adaptaciones relacionadas con los procesos administrativos, contables, fiscales, educativos, sociales y sanitarios del país.
+
+| Software                | Localización o adaptación                                                      | Área                      | Estado        | Repositorio                            |
+| ----------------------- | ------------------------------------------------------------------------------ | ------------------------- | ------------- | -------------------------------------- |
+| **Tryton** | Traducción y adaptación funcional para la República Dominicana.                | Gestión institucional     | Activo        | [Ver repositorio](URL_DEL_REPOSITORIO) |
+| **GNU Health** | Traducción y adaptación funcional para la República Dominicana. | Salud | Activo | [Ver repositorio](URL_DEL_REPOSITORIO) |
+| **Odoo** | Traducción y adaptación funcional para la República Dominicana.          | Gestión institucional         | Activo | [Ver repositorio](URL_DEL_REPOSITORIO) |
+
+### Estados de los proyectos
+
+Utilizamos los siguientes estados para comunicar el nivel de avance de cada iniciativa:
+
+* **Planificación:** el alcance y los requerimientos del proyecto están siendo definidos.
+* **En desarrollo:** el proyecto se encuentra en implementación activa.
+* **Piloto:** la solución está siendo utilizada o evaluada en un entorno controlado.
+* **Activo:** el proyecto está disponible para su utilización.
+* **Mantenimiento:** el proyecto recibe correcciones, actualizaciones y mejoras periódicas.
+* **Suspendido:** el desarrollo está temporalmente detenido.
+* **Archivado:** el proyecto ya no se encuentra en desarrollo activo.
+
+Cada repositorio contiene su propia documentación técnica, incluyendo, cuando corresponda:
+
+* Objetivos y alcance.
+* Funcionalidades principales.
+* Tecnologías utilizadas.
+* Requisitos de instalación.
+* Instrucciones de configuración.
+* Guías de uso.
+* Licencia.
+* Estado del proyecto.
+* Procedimiento para reportar errores.
+* Instrucciones para contribuir.
+
+
 ## Código abierto para un país mejor
 
 Creemos que el código abierto permite compartir conocimientos, reducir barreras de acceso y construir soluciones de manera colectiva.
