@@ -45,9 +45,9 @@ Estas iniciativas pueden incluir traducciones, documentación, configuraciones, 
 
 | Software                | Localización o adaptación                                                      | Área                      | Estado        | Repositorio                            |
 | ----------------------- | ------------------------------------------------------------------------------ | ------------------------- | ------------- | -------------------------------------- |
-| **Tryton** | Traducción y adaptación funcional para la República Dominicana.                | Gestión institucional     | Activo        | [Ver repositorio](URL_DEL_REPOSITORIO) |
-| **GNU Health** | Traducción y adaptación funcional para la República Dominicana. | Salud | Activo | [Ver repositorio](URL_DEL_REPOSITORIO) |
-| **Odoo** | Traducción y adaptación funcional para la República Dominicana.          | Gestión institucional         | Activo | [Ver repositorio](URL_DEL_REPOSITORIO) |
+| **Tryton** | Traducción y adaptación funcional para la República Dominicana.                | Gestión Empresarial     | Activo        | [Ver repositorio](URL_DEL_REPOSITORIO) |
+| **GNU Health** | Traducción y adaptación funcional para la República Dominicana. | Gestión Salud | Activo | [Ver repositorio](URL_DEL_REPOSITORIO) |
+| **Odoo** | Traducción y adaptación funcional para la República Dominicana.          | Gestión Empresarial         | Activo | [Ver repositorio](URL_DEL_REPOSITORIO) |
 
 ### Estados de los proyectos
 
